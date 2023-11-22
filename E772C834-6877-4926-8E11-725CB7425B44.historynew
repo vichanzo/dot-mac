@@ -1,0 +1,3 @@
+xattr -drs com.apple.quarantine /~Downloads
+xattr -drs com.apple.quarantine ~/Downloads
+xattr -drs com.apple.quarantine ~/Downloads

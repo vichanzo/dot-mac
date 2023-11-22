@@ -1,0 +1,1197 @@
+ls
+cat Brewfile
+cd Ansible-MacBrew
+l
+ls
+git add -A
+git commit -m " add test_home_brew_community"
+git pushj
+git push
+nano README.md
+git add README.md
+git push
+git commit -m :"Update Readme add steps to run playbook and commit/push"
+git push
+nano test_homebrew_community.yml
+ansible-playbook test_homebrew_community.yml
+nano test_homebrew_community.yml
+nano test_homebrew_community.yml
+ansible-playbook test_homebrew_community.yml
+nano test_homebrew_community.yml
+ansible-playbook test_homebrew_community.yml
+nano test_homebrew_community.yml
+ansible-playbook test_homebrew_community.yml
+cp test_homebrew_community.yml test_homebrew_community.yml.bak
+nano test_homebrew_community.yml
+ansible-playbook test_homebrew_community.yml
+brew bundle dump
+ls
+more Brewfile
+mas list
+nano dock-remove.yml
+dockutil
+brew install dockutil
+dockutil
+dockutil --find
+which python
+which python2
+which python3
+exit
+cd setup/notes
+ls
+nano 2022-11-29_NewMac_ansible_brew
+nano 2022-11-29_NewMac_ansible_brew
+ls
+brew bundle dump
+more Brewfile
+dockutil --no-restart --add "/System/Applications/Utilities/Terminal.app"
+python -v
+$SHELL
+exit
+nano ~/.zshrc
+ls
+exit
+cd /Users
+ls
+brew install alfred
+brew install angry-ip-scanner
+brew install cyberduck
+brew install xquartz
+brew install vlc
+brew install visual-studio-code
+brew install superduper
+brew install playonmac
+brew install meld
+brew install keepassxc
+brew install fuse
+brew install darktable
+brew install iterm2
+cd /
+ls
+cd dev
+ls
+cd ..
+nano ~/.zshrc
+nano ~/.zshrc
+exit
+ls
+cd Downloads
+l
+ls
+cd ~/Desktop
+ls
+ls -G
+ls
+cd Screenshots
+ls
+ ls -G
+ls -al -G
+cd ~/Desktop
+ls
+ls -al -G
+ll
+ll
+ll
+ll
+ls
+ll
+exit
+ll
+exit
+ls
+ll
+ll
+ls -al  -G
+nano ~/.zshrc
+ll
+exit
+ls
+cd Do
+cd Downloads
+sl
+ls
+cd ..
+ls
+cd /
+ls
+cd /Des
+cd ~/Desktop
+ls
+cd Screenshots
+ls
+ls -al
+ll
+ls -al --color=auto
+ls -G
+ls -G
+cd ..
+ls -G
+ls
+nano ~/.zshrc
+ls
+ll
+exit
+tmux
+exit
+ll
+exit
+cd setup
+ls
+cd Ansible-MacBrew
+git pull
+git status
+cd ..
+nano mac_brew_cask.yml
+ansible-playbook mac_brew_cask.yml
+nano mac_brew_cask.yml
+ansible-playbook mac_brew_cask.yml
+nano mac_brew_cask.yml
+exit
+cd Documents
+ls
+ll
+nano ~/.zshrc
+terminal &
+iterm &
+cd Documents/OneDrive\ -\ Procter\ and\ Gamble
+ls
+ll
+ls
+ps -p $$
+ps
+ls -p
+ps -p
+echo "$0"
+export CLICOLOR=1
+ls
+ps
+nano ~/.zshr
+nano ~/.zshrc
+ls
+ll
+ll
+ll
+exit
+ll
+ls
+ll
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+which bash
+bash
+ls -l
+ls
+ll
+bash
+bash
+cd setup
+ls
+nano s2.ssh
+chmod + x s2.ssh
+ls
+ls
+pwd
+cd Ansible-
+cd Ansible-MacBrew
+ls
+cd ..
+ls
+chmod +x s2.ssh
+./s2.ssh
+nano s2.ssh
+./s2.ssh
+ll
+nano s2.ssh
+./s2.ssh
+exit
+cd Documents
+cd ..
+exi
+exit
+exit
+cd Downloads
+ls
+mkdir test
+cd test
+ls
+cd ..
+exit
+ls
+nano ~/.zshrc
+exit
+ls
+cd Do
+cd Documents
+cd ..
+nano ~/.zshrc
+bash
+zsh
+nano ~/.zshrc
+zsh
+nano ~/.zshrc
+zsh
+exit
+ls
+cd Downloads
+ls
+cd test
+cd ~/Desktop
+ls
+ls
+cd Screenshots
+ls
+mkdir test
+cd test
+exit
+tmux
+exit
+nano .zshrc
+nano .bashrc
+bash
+nano .bashrc
+nano .bashrc
+exit
+ls
+cd setup
+ls
+./s2.ssh
+exit
+bash
+bash
+bash
+tmx
+tmux
+cd setup
+./s2.ssh
+nano s2.ssh
+./s2.ssh
+ls
+./s2.ssh
+nano s2.ssh
+./s2.ssh
+nano s2.ssh
+./s2.ssh
+nano s2.ssh
+./s2.ssh
+./s2.ssh
+cd setup
+ls
+./s2.ssh
+ls
+cp s2.ssh s3.ssh
+nano s3.ssh
+ll
+./s3.ssh
+nano s3.ssh
+./s3.ssh 
+nano s3.ssh
+./s3.ssh 
+./s3.ssh 
+nano s3.ssh
+nano s2.ssh
+./s2.ssh
+./s2.ssh
+nano s3.ssh
+nano s2.ssh
+./s2.ssh
+./s2.ssh
+nano s2.ssh
+nano s2.ssh
+nano s2.ssh
+./s2.ssh
+./s2.ssh
+nano s2.ssh
+./s2.ssh
+nano s2.ssh
+./s2.ssh
+./s2.ssh
+nano s2.ssh
+./s2.ssh
+./s2.ssh
+nano s2.ssh
+./s2.ssh
+nano s2.ssh
+./s2.ssh
+nano s2.ssh
+./s2.ssh
+ping vchanzo.duckdns.org
+cd ~
+ls
+cd setup
+./s2.ssh
+./s2.ssh
+./s2.ssh
+./s3.ssh
+nano s3.ssh
+./s3.ssh
+nano s3.ssh
+./s3.ssh
+nano s3.ssh
+./s3.ssh
+nano s3.ssh
+./s3.ssh
+./s3.ssh
+./s3.ssh\\
+
+./s3.ssh\\
+
+cat s3.ssh
+nano s3.ssh
+./s3.ssh
+nano ./s3.ssh
+./s3.ssh
+nano ./s3.ssh
+./s3.ssh
+s
+./s3.ssh
+shutdown
+su shutdown
+sudo shutdown
+sudo shutdown -h -n
+sudo shutdown --help
+man  shutdown
+sudo shutdown -h -t +0
+sudo shutdown -h +0
+exi
+exit
+ls
+cd setup
+ls
+./s3.ssh
+./s3.ssh
+cat s3.ssh
+ssh -i master.key -L -L 8080:localhost:8080 opc@vchanzo.duckdns.org
+ssh -i master.key -L 8080:localhost:8080 opc@vchanzo.duckdns.org
+ssh -i master.key -L 8080:localhost:8080 -L 9000:localhost:9000 opc@vchanzo.duckdns.org
+ssh -i master.key -L 8880:localhost:8880 -L 9000:localhost:9000 opc@vchanzo.duckdns.org
+ssh -i master.key -L 8880:localhost:8880 -L 9000:localhost:9000 opc@vchanzo.duckdns.org
+ssh -i master.key -L 8880:localhost:8880 -L 9000:localhost:9000 opc@vchanzo.duckdns.org
+cd github
+ls
+cd Atom
+ls
+exit
+cd github
+ls
+cd Ansible-pull-and-Github
+ls
+cd ..
+git clone --recursive Ansible-pull-and-Github
+git configure
+git --help
+gh
+ls
+rm Ansible-pull-and-Github
+rm -r Ansible-pull-and-Github
+ls
+rm -r Atom
+ls
+rm php-proxy-app
+rm -r php-proxy-app
+ls
+cs Docker-php-proxy
+ls
+cd  Docker-php-proxy
+ls
+cd ..
+rm -r Docker-php-proxy
+ls
+clone git@github.com:vichanzo/Ansible-pull-and-Github.git
+git clone git@github.com:vichanzo/Ansible-pull-and-Github.git
+cd /sbin
+cd ~/setup
+ls
+cd .ssh
+cd ~/.ssh
+ls
+touch authorized_keys
+chmod 600 authorized_keys
+nano authorized_keys
+cd ~/github
+git clone git@github.com:vichanzo/Ansible-pull-and-Github.git
+git config --global --edit
+cd ~/setup
+ls
+ssh-add master.key
+ssh -T git@github.com
+cd ~/github
+git clone git@github.com:vichanzo/Ansible-pull-and-Github.git
+cd Ansible-pull-and-Github
+homebrew install docker-ce
+brew install docker-ce
+docker ps
+docker pull portainer
+docker-compose --verion
+docker-compose --version
+ls
+cd setup
+ls
+mkdir docker-apache-php
+nano dockerfile
+docker build -t apache-php-image .
+mv dockerfile Dockerfile
+docker build -t apache-php-image .
+ls
+cd docker-apache-php
+ls
+cd php
+ls
+cd src
+ls
+nano index.php
+nano test-post.html
+nano test-post.html
+nano test-post.html
+cp test-post.html test2.html
+nano test2
+nano test2.html
+nano test2.html
+nano test2.html
+nano test2.html
+nano test2.html
+nano test2.html
+nano test2.html
+nano test2.html
+nano welcome_get.php
+nano test2.html
+nano test2.html
+nano welcome_get.php
+exit
+cd /UserS
+ls
+cd /users
+ls
+cd ~/setuP
+ls
+more brefile
+more brewfile
+cd docker-apache-php
+ls
+ls
+cd ..
+mv Dockerfile docker-apache-php
+ls
+cd docker-apache-php
+ls
+docker images ls
+docker build -t apache-php-image .
+docker images ls
+nano Dockerfile
+docker build -t apache-php-image .
+nano Dockerfile
+docker build -t apache-php-image .
+docker images ls
+docker image ls
+nano Dockerfile
+docker build -t .
+docker build .
+docker container ls
+docker image ls
+docker image rm a5cce7ab8026
+docker container rm 0840ad41ec1e
+docker image rm a5cce7ab8026
+docker container rm d6176c30576a
+docker image rm a5cce7ab8026
+docker container rm dd475ad1d9f5
+docker image ls
+docker image rm dd475ad1d9f5
+nano php-apache.yml
+docker-compose php-apache.yml
+mv php-apache.yml docker-compose.yml
+docker-compose up -d
+nano docker-compose.yml
+docker-compose up -d
+docker-compose up -d
+docker image ls
+docker container l
+docker container ls
+exirt
+exit
+ping ox-pm-fs002.cis.pg.com
+ping ox-pm-fs001.cis.pg.com
+ping 143.30.17.2
+ping 1437.1767.192.70
+ping 137.176.192.70
+ping 143.30.17.8
+Ping local host
+Ping localhost
+exit
+cd setup
+ls
+.\s3.ssh
+.\s3.ssh
+./s3.ssh
+./s2.ssh
+./s3.ssh
+ls
+cd docker-apache-php
+ls
+more Dockerfile
+docker ps
+cd php
+ls
+cd src
+ls
+moore test2.html
+cat test2.html
+cat welcome_get.php
+cat index.php
+ls
+cat test-post.html
+ls
+docker images ls
+docker images ls
+pwd
+cd ../..
+ls
+moore docker-compose.yml
+more docker-compose.yml
+docker-compose up -d
+docker ps
+cd php/src
+ls
+rm -i *
+rm -i test-post.html  test2.html      welcome_get.php
+wget https://www.php-proxy.com/download/php-proxy.zip
+ls
+unzip php-proxy.zip
+ls
+ls
+ls -al
+nano config.php
+mv index.php hello_apache.php
+mv proxy.php index.php
+~/setup/s3.ssh
+ls
+cd ~/setup
+./s3.ssh
+./s3.ssh
+./s3.ssh
+nano s3.ssh
+./s3.ssh
+nano s3.ssh
+./s3.ssh
+angry ip
+brew install xquartz
+xquartz &&
+xquartz &
+docker pull debian
+docker run -it debian
+docker exec utc-7 date -R
+docker ps
+docker ps
+docker run -it  -e TZ=America/Los_Angeles debian
+time
+date
+docker machine restart
+docker-machine restart
+docker ps
+docker run -it  -e TZ=America/Los_Angeles debian
+docker-machine stop
+docker run -it  -e TZ=America/Los_Angeles debian
+exit
+cd setup
+./s3.ssh
+nano s3.ssh
+nano s3.ssh
+./s3.ssh
+ssh 192.168.4.50
+brew install angry-ip-scanner
+nmap
+nmap -p 22 192.168.4.0/24
+ssh root@192.168.4.23
+ssh root@192.168.4.24
+ssh root@192.168.4.25
+ssh root@192.168.459
+ssh root@192.168.59
+ssh root@192.168.61
+ssh root@192.168.4.61
+ssh root@192.168.4.59
+exit
+history
+exit
+history
+docker run
+docker run -it -e TZ=America/Los_Angeles debian
+open xquartz
+docker run -it -e TZ=America/Los_Angeles debian
+docker run -it -e TZ=America/Los_Angeles debian
+docker run -it -e TZ=America/Los_Angeles debian
+sudo reboot
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+whoami
+exit
+brew install xeyes
+xeyes
+xterm &*
+ifconfig
+IP=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')
+docker run -d --name firefox -e DISPLAY=$IP:0 -v /tmp/.X11-unix:/tmp/.X11-unix jess/firefox\
+
+open -a xquartz
+xeyes &
+docker run -d --name firefox -e DISPLAY=$IP:0 -v /tmp/.X11-unix:/tmp/.X11-unix jess/firefox\
+
+DISPLAY
+get DISPLAY
+echo $IP
+cat /opt/X11/bin/xhost
+/opt/X11/bin/xhost =
+/opt/X11/bin/xhost + "$IP"
+docker run -it -e DISPLAY=192.168.4.61 -v /tmp/.X11-unix:/tmp/.X11-unix so_xeyes
+docker run -it -e DISPLAY=192.168.4.61 -v /tmp/.X11-unix:/tmp/.X11-unix so_xeyes
+cd setup
+mkdir xeyes_docker
+cd xeyes_docker
+nano Dockerfile
+docker build -t so_xeyes .
+docker run -it -e DISPLAY=192.168.4.61 -v /tmp/.X11-unix:/tmp/.X11-unix so_xeyes
+docker run -it -e DISPLAY="192.168.4.61:0" -v /tmp/.X11-unix:/tmp/.X11-unix so_xeyes
+docker run -it -e DISPLAY=:0 -v /tmp/.X11-unix:/tmp/.X11-unix so_xeyes
+sudo reboot
+docker ps
+hsitory
+history
+docker run -it -e TZ=America/Los_Angeles debian
+ls
+xeyes
+cd setup
+slk
+ls
+cd PerfectMS_MergerFS
+ls
+cd MergerFS
+ls
+cd ..
+cd PerfectMS_MergerFS
+mv fstab_pop=-os fstab_popos
+cat fstab_popos
+ssh mngr@192.168.88.173
+nano /Users/chan.vk/.ssh/known_hosts
+ssh mngr@192.168.88.173
+ssh mngr@192.168.88.173
+ls
+la
+diskutil liart
+diskutil list
+diskutil list
+diskutil list
+smb:\\137.176.192.173
+cd /etc
+ls
+ls
+nano nsmb.conf
+sudo touch nsmb.conf
+sudo nano nsmb.conf
+cd ~
+brew install macfuse
+brew install ftfs-3g-mac
+brew install ntfs-3g-mac
+brew install ntfs-3g
+brew install ntfs-3g-mac
+brew install ntfs-3g
+sudo port install ntfs-3g
+sudo xcodebuild -license
+sudo port install ntfs-3g
+macports
+xcode-select --install
+sudo xcode-select --install
+open "Software Update"
+ "Software Update"
+xcodebuild -license
+sudo port -v selfupdate
+PATH
+echo $PATH
+$PATH =
+set PATH = $PATH:/opt/local/bin
+echo $PATH
+export PATH=${PATH}:/opt/local/bin
+echo $PATH
+sudo port -v selfupdate
+sudo port install ntfs-3g
+id
+id -u
+id -g
+ls
+cd setup
+ls
+more s3.ssh
+ssh -i master.key opc@iesha.duckdns.org
+ssh -i master.key opc@iesha.duckdns.org
+cat s2.ssh
+cat s3.ssh
+ssh -i master.key -D 8080 opc@iesha.duckdns.org
+docker run -it -e DISPLAY=:0 -v /tmp/.X11-unix:/tmp/.X11-unix so_xeyes
+docker run -it -e DISPLAY=192.168.4.61:0 -v /tmp/.X11-unix:/tmp/.X11-unix so_xeyes
+ls
+cd ..
+l;s
+ls
+mkdir gphotos-sync
+cd gphotos-sync
+python3 --version
+pipenv install gphotos-sync
+python3 -m pip install pipenv
+How To Backup Google Photos To Your Computer With gphotos-sync\
+Âƒ€Logix  Updated on July 3, 2019 apps, google photos, how-to\
+gphotos-sync is a command line tool for backing up Google Photos (including separate albums) using the Google Photos Library API, for Linux, macOS and Windows. Use it periodically to grab all newly added photos, keeping a complete Google Photos backup on a server or desktop.\
+\
+This tool is specially useful after Google's announcement that Google Photos will stop syncing to Drive starting July 10, 2019, which means that some tools for backing up Google Photos to your computer will stop working (affecting Insync for instance, a commercial Google Drive client that runs on Linux, macOS and Windows).\
+\
+gphotos-sync can backup all the photos an user has uploaded to Google Photos, as well as additional photos created automatically using Google Photos, like animations, panoramas, movies, enhanced photos, or collages.\
+\
+This application is only for Google Photos download / backup purposes. It cannot upload photos to Google Photos.\
+\
+The first full sync creates 2 directories:\
+\
+    photos, which contains all Google Photos and videos organized in a year/month subfolder structure (photo/YYYY/MM)\
+    albums, which contains a folder hierarchy representing the set of albums and shared albums in your library (albums/YYYY/MM Original Album Name). Since this folder contains the same photos as those in photos/, the images in albums/ are symbolic links to the photos from photos/\
+\
+\
+Subsequent runs of gphotos-sync with the same root folder will refresh the local copy with any new photos added to your Google Photos since the last scan. It will not update any photos modified in Google Photos though, because there's no way to find out the modification date of images from Google Photos.\
+\
+It's also worth noting that the Google Photos Library API strips GPS data from the images EXIF information (there's an open issueÂƒ€for this). The gphotos-sync page includes an work-around for this issue, explained here, which I did not try.\
+\
+gphotos-sync features / options include:\
+\
+    download all your images and videos from Google Photos, including those created automatically by Google Photos (animations, panoramas, movies, enhanced photos, or collages)\
+    grab all new photos added to your Google Photos account since the previous sync\
+    optionally only download and synchronize a single album (using --album "ALBUM NAME")\
+    compare the images in your Google Photos account with a local folder, like a previous backup. The comparison does not require that the files are arranged in the same folders, it uses meta-data in the files such as create date and exif UID to match pairs of items (use --compare-folder "COMPARE_FOLDER") See this link for more information\
+    delete the index database and re-scan everything (--flush-index)\
+    optionally re-scan the entire library, ignoring the last scan date (--rescan)\
+    check for the existence of files marked as already downloaded and re-download any missing ones. Use this if you have deleted some local files (--retry-download)\
+    skip videos when syncing (--skip-video)\
+    set the start and end date of the files to sync in the format YYYY-MM-DD (--start-date START_DATE / --end-date END_DATE)\
+    scrape the Google Photos website for location metadata and add it to the local files' EXIF metadata (--get-locations)\
+\
+\
+Before using gphotos-sync, I recommend reading its known issues and limitations.\
+\
+Installing and setting up gphotos-sync\
+\
+See how to install gphotos-sync on Windows.\
+\
+This tool uses the Google Photos API, and requires you to create a new Google Cloud project, enable the Photos API for your project, and setup OAuth 2.0 for it, so you can use your own API key, to avoid running into API limitations. There are still API limitations, but this way you'll be the only one using it. This first part of the guide below is for installing gphotos-sync, and the second part about using your own API key with gphotos-sync (it doesn't work without this).\
+\
+Install gphotos-sync using pipenv on Linux:\
+\
+1. Install pip3:\
+\
+    Debian, Ubuntu, Linux Mint, Pop!_OS, elementary OS:\
+\
+sudo apt install python3-pip\
+\
+\
+    Fedora:\
+\
+sudo dnf install python3-pip\
+\
+\
+    Arch Linux, Manjaro:\
+\
+sudo pacman -S python-pip\
+\
+\
+    openSUSE:\
+\
+sudo zypper install python3-pip\
+\
+\
+2. Export ~/.local/bin in PATH if you haven't already (that's where the executables for packages installed using pip3 are stored):\
+\
+    for Bash:\
+\
+echo "export PATH=\"\$PATH:\$HOME/.local/bin\"" >> ~/.bashrc\
+\
+. ~/.bashrc\
+\
+\
+    for Zsh:\
+\
+echo "export PATH=\"\$PATH:\$HOME/.local/bin\"" >> ~/.zshrc\
+\
+. ~/.zsh\
+\
+\
+3. Install pipenv, create a folder called gphotos-sync in your home directory, and install gphotos-sync using pipenv:\
+\
+python3 -m pip install pipenv\
+mkdir ~/gphotos-sync\
+cd ~/gphotos-sync\
+pipenv install gphotos-sync\
+
+How To Backup Google Photos To Your Computer With gphotos-sync\
+Âƒ€Logix  Updated on July 3, 2019 apps, google photos, how-to\
+gphotos-sync is a command line tool for backing up Google Photos (including separate albums) using the Google Photos Library API, for Linux, macOS and Windows. Use it periodically to grab all newly added photos, keeping a complete Google Photos backup on a server or desktop.\
+\
+This tool is specially useful after Google's announcement that Google Photos will stop syncing to Drive starting July 10, 2019, which means that some tools for backing up Google Photos to your computer will stop working (affecting Insync for instance, a commercial Google Drive client that runs on Linux, macOS and Windows).\
+\
+gphotos-sync can backup all the photos an user has uploaded to Google Photos, as well as additional photos created automatically using Google Photos, like animations, panoramas, movies, enhanced photos, or collages.\
+\
+This application is only for Google Photos download / backup purposes. It cannot upload photos to Google Photos.\
+\
+The first full sync creates 2 directories:\
+\
+    photos, which contains all Google Photos and videos organized in a year/month subfolder structure (photo/YYYY/MM)\
+    albums, which contains a folder hierarchy representing the set of albums and shared albums in your library (albums/YYYY/MM Original Album Name). Since this folder contains the same photos as those in photos/, the images in albums/ are symbolic links to the photos from photos/\
+\
+\
+Subsequent runs of gphotos-sync with the same root folder will refresh the local copy with any new photos added to your Google Photos since the last scan. It will not update any photos modified in Google Photos though, because there's no way to find out the modification date of images from Google Photos.\
+\
+It's also worth noting that the Google Photos Library API strips GPS data from the images EXIF information (there's an open issueÂƒ€for this). The gphotos-sync page includes an work-around for this issue, explained here, which I did not try.\
+\
+gphotos-sync features / options include:\
+\
+    download all your images and videos from Google Photos, including those created automatically by Google Photos (animations, panoramas, movies, enhanced photos, or collages)\
+    grab all new photos added to your Google Photos account since the previous sync\
+    optionally only download and synchronize a single album (using --album "ALBUM NAME")\
+    compare the images in your Google Photos account with a local folder, like a previous backup. The comparison does not require that the files are arranged in the same folders, it uses meta-data in the files such as create date and exif UID to match pairs of items (use --compare-folder "COMPARE_FOLDER") See this link for more information\
+    delete the index database and re-scan everything (--flush-index)\
+    optionally re-scan the entire library, ignoring the last scan date (--rescan)\
+    check for the existence of files marked as already downloaded and re-download any missing ones. Use this if you have deleted some local files (--retry-download)\
+    skip videos when syncing (--skip-video)\
+    set the start and end date of the files to sync in the format YYYY-MM-DD (--start-date START_DATE / --end-date END_DATE)\
+    scrape the Google Photos website for location metadata and add it to the local files' EXIF metadata (--get-locations)\
+\
+\
+Before using gphotos-sync, I recommend reading its known issues and limitations.\
+\
+Installing and setting up gphotos-sync\
+\
+See how to install gphotos-sync on Windows.\
+\
+This tool uses the Google Photos API, and requires you to create a new Google Cloud project, enable the Photos API for your project, and setup OAuth 2.0 for it, so you can use your own API key, to avoid running into API limitations. There are still API limitations, but this way you'll be the only one using it. This first part of the guide below is for installing gphotos-sync, and the second part about using your own API key with gphotos-sync (it doesn't work without this).\
+\
+Install gphotos-sync using pipenv on Linux:\
+\
+1. Install pip3:\
+\
+    Debian, Ubuntu, Linux Mint, Pop!_OS, elementary OS:\
+\
+sudo apt install python3-pip\
+\
+\
+    Fedora:\
+\
+sudo dnf install python3-pip\
+\
+\
+    Arch Linux, Manjaro:\
+\
+sudo pacman -S python-pip\
+\
+\
+    openSUSE:\
+\
+sudo zypper install python3-pip\
+\
+\
+2. Export ~/.local/bin in PATH if you haven't already (that's where the executables for packages installed using pip3 are stored):\
+\
+    for Bash:\
+\
+echo "export PATH=\"\$PATH:\$HOME/.local/bin\"" >> ~/.bashrc\
+\
+. ~/.bashrc\
+\
+\
+    for Zsh:\
+\
+echo "export PATH=\"\$PATH:\$HOME/.local/bin\"" >> ~/.zshrc\
+\
+. ~/.zsh\
+\
+\
+3. Install pipenv, create a folder called gphotos-sync in your home directory, and install gphotos-sync using pipenv:\
+\
+python3 -m pip install pipenv\
+mkdir ~/gphotos-sync\
+cd ~/gphotos-sync\
+pipenv install gphotos-sync
+pipenv install gphotos-sync
+pipenv run gphotos-sync
+/Library/Application\ Support
+ls
+cd /Library/Application\ Support
+mkdir gphotos-sync
+sudo mkdir gphotos-sync
+cd gphotos-sync
+ls
+cp ~/Downloads/client_secret_560745512238-uluuj6o2r056svipkg0dtoceghr1v8eh.apps.googleusercontent.com.json .\client_secret.json
+sudo cp ~/Downloads/client_secret_560745512238-uluuj6o2r056svipkg0dtoceghr1v8eh.apps.googleusercontent.com.json .\client_secret.json
+ls
+ls
+sudo cp ~/Downloads/client_secret_560745512238-uluuj6o2r056svipkg0dtoceghr1v8eh.apps.googleusercontent.com.json client_secret.json
+ls
+.\\
+exit
+cd .\\
+exit
+ls -al
+rm .client_secret.json
+sudo rm .client_secret.json
+gphotos-sync
+echo $PATH
+export PATH=\"\$PATH:\$HOME/.local/bin\"
+echo $PATH
+export PATH=/Users/chan.vk/Library/Python/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:$HOME/.local/bin
+echo $PATH
+pipenv run gphotos-sync
+sudo pipenv run gphotos-sync
+pipenv run gphotos-sync
+pipenv run gphotos-sync .
+pipenv
+pipenv  lean
+pipenv  clean
+pipenv clean
+pipenv uninstall gphotos-sync
+pipenv verify
+pipenv sync
+pipenv lock
+pipenv update
+pipenv update
+cd ~
+ls
+cd setup
+ls
+cd gphotos-sync
+ls
+pipenv update
+pipenv run gphotos-sync .
+ls
+lsblk
+lsblk
+lsblk
+mount /dev/disk2s1
+blkid
+diskutil list
+dd if=/dev/disk3 of=/dev/disk2 bs=1MB
+dd if=/dev/disk3 of=/dev/disk2 bs=1M
+sudo dd if=/dev/disk3 of=/dev/disk2 bs=1M
+sudo dd if=/dev/disk3 of=/dev/disk2 bs=1M
+diskutil list
+/Volumes/Nessus\ Agent\ Install
+la
+ls
+sudo 
+sudo su
+mount_smbfs //192.168.88.173/shared
+mount_smbfs //192.168.88.173/shared /tmp/files
+ls /private
+ls /private/tmp
+mkdir /private/tmp/files
+mount_smbfs //192.168.88.173/shared /tmp/files
+mount_smbfs //192.168.88.173/testshare /tmp/files
+mount_smbfs //guest:192.168.88.173/testshare /tmp/files
+mount_smbfs //192.168.88.173/shared
+mount_smbfs //guest@192.168.88.173/shared
+mount_smbfs //guest@192.168.88.173/shared /tmp/files
+mount_smbfs //mngr@192.168.88.173/shared /tmp/files
+mount_smbfs //mngr@192.168.88.173/shared /tmp/files
+ssh manager@192.168.88.173
+open -a xquartz
+ssh mngr@192.168.88.173
+ssh mngr@192.168.88.173
+ssh mngr@192.168.88.173
+ssh vk@192.168.88.89
+ssh vk@192.168.88.80
+ssh mngr@192.168.88.173
+xit
+exit
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -c aes256-cbc "chan.vk"@143.22.232.4
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -c aes256-cbc "chan.vk"@143.22.232.38
+ssh "cn\chan.vk"@143.22.232.38
+telnet 143.22.232.38
+telnet
+ssh "chan.vk"@143.22.232.4 
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 "chan.vk"@143.22.232.4 
+cd ~/.ssh
+ls
+nano known_hosts
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -c aes256-cbc "chan.vk"@143.22.232.4 
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -c aes256-cbc "chan.vk"@143.22.232.5 
+exit
+ping ox-xc01-mcs.c.cis.pg.com
+ping 143.22.232.38
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -c aes256-cbc "chan.vk"@143.22.232.38
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -c aes256-cbc "chan.vk"@143.22.232.39
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -c aes256-cbc "cn\chan.vk"@143.22.232.39
+exit
+cd Downloads
+ls
+cd wnr2000v3-V1.1.2.18
+ls
+cp wnr2000v3-V1.1.2.18.img wnr2000.bin
+ssh admin@192.168.1.1
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -c aes256-cbc admin@192.168.1.1 
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -c aes256-cbc admin@192.168.1.1 
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -c aes256-cbc admin@192.168.1.1 
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -c aes256-cbc root@192.168.1.1 
+tfpt
+tftp
+ls
+tftp -i 192.168.1.1 PUT wnr2000v3-V1.1.2.18.img
+tftp --help
+tftp -e 192.168.1.1 PUT wnr2000v3-V1.1.2.18.img
+tftp -e 192.168.1.1
+ping 192.168.1.1
+ifconfig
+ifconfig
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -c aes256-cbc "chan.vk"@143.22.232.4
+exit
+ipconfig
+ifconfig
+ssh root
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ping 192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+exit
+cd setup/elk
+ls
+CURL
+curl
+\
+\
+curl --cacert http_ca.crt -u elastic https://192.168.88.240:9200\
+\
+
+\
+\
+curl --cacert http_ca.crt -u elastic https://192.168.88.240:9200\
+\
+
+\
+\
+curl --cacert http_ca.crt -u elastic https://192.168.88.240:9200\
+\
+
+ls
+cat http_ca.crt
+\
+\
+curl --cacert http_ca.crt -u elastic https://192.168.88.240:9200\
+\
+
+exit
+ssh root@192.168.88.240
+ping 192.168.88.1
+ping 192.168.88.240
+ping 192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+ssh root@192.168.88.240
+home
+clear
+ssh mngr@192.168.88.100
+ssh mngr@192.168.88.100
+ping 192.168.88.100
+ssh mngr@192.168.88.100
+ssh mngr@192.168.88.100
+ssh mngr@192.168.88.100
+ssh mngr@192.168.88.100
+ssh mngr@192.168.88.100
+ssh vince@192.168.88.100
+ssh vince@192.168.88.100
+ip a
+ifconfig
+cd .ssh
+ls
+cat known_hosts
+ls -al
+cd ..
+ls
+cd setup
+ls
+more master.key
+exit
+/Users/chan.vk/Desktop/vince_file ; exit;
+cd Desktop
+ls
+nano testuser
+ssh vince@192.168.88.100
+ssh vince@192.168.88.100
+ssh mngr@192.168.88.100
+ssh mngr@192.168.88.100
+ssh vince@192.168.88.100
+ssh vince@192.168.88.100
+lslbk
+sudo lsblk
+ping 137.177.187.227
+ssh mngr@137.177.187.227
+ping 192.168.88.1
+ping 192.168.88.1
+ping 192.168.88.100
+ping 192.168.88.1
+ping 192.168.88.100
+ping 192.168.88.1
+ping 192.168.88.100
+ssh vknano ~/.zshrc.168.88.100
+ssh vk@192.168.88.100
+ping 192.168.88.20
+ssh vk@192.168.88.20
+ssh vk@192.168.88.20
+ssh vk@192.168.88.173
+ssh mngr@192.168.88.173
+ping 192.168.88.173
+ssh mngr@192.168.88.173
+nano .ssh/known_hosts
+ssh mngr@192.168.88.173
+ssh mngr@192.168.88.173
+ssh mngr@192.168.88.173
+ssh mngr@192.168.88.173
+cd setup
+nano rsa_id
+ssh 192.168.88.21
+ssh vk@192.168.88.21
+eir
+ping 192.168.88.100
+ssh 192.168.88.10
+ping 192.168.88.10
+ssh mngr@192.168.88.21
+ifconfig
+ssh mngr@192.168.88.32
+ls -al /~/.ssh/id_*.pub
+ssh-keygen -t rsa -b 2048
+ssh-copy-id mngr@192.168.88.10
+ssh mngr@192.168.88.10
+ssh mngr@192.168.88.10
+ping 192.168.88.1
+ping 192.168.88.10
+ping 192.168.88.3
+ping 192.168.88.2
+ssh mngr@192.168.88.32
+exit
+cd ..
+rm Freeform.app
+rm -r Freeform.app
+rm -rf Freeform.app
+sudo su
+exit
