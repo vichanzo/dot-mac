@@ -16,6 +16,14 @@ brew 'tree' # Display directories as trees
 brew 'ncdu' # Disk usage analyzer
 #brew 'xz' # General-purpose data compression with high compression ratio
 
+
+
+
+
+
+
+
+
 # Development
 brew 'imagemagick' # Image processing library
 brew 'openssl'
@@ -27,9 +35,27 @@ cask 'adoptopenjdk' # Java JDK
 # Download Tinker tool to speed up animations and more - https://www.bresink.com/osx/TinkerTool.html
 cask 'visual-studio-code'
 #cask 'github'
-cask 'whatsapp'
-cask 'android-studio'
-cask 'google-chrome'
+#cask 'whatsapp'
+#cask 'android-studio'
+#cask 'google-chrome'
+cask 'adobe-acrobat-reader'	
+cask 'darktable'		
+cask 'macfuse'			
+cask 'smcfancontrol
+cask 'alacritty'
+cask 'meld'
+cask 'hammerspoon'
+cask 'vlc			
+cask 'iterm2'
+cask 'xquartz'
+cask 'audacity'		
+cask 'keepassxc'		
+cask 'rancher'
+#cask 'cyberduck'		
+#cask 'librecad'		
+cask 'rectangle'
+
+
 
 # Mac App Store
 mas 'Xcode', id: 497799835
