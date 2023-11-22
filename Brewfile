@@ -15,9 +15,16 @@ brew 'mas' # Mac App Store manager
 brew 'tree' # Display directories as trees 
 brew 'ncdu' # Disk usage analyzer
 #brew 'xz' # General-purpose data compression with high compression ratio
-
-
-
+brew 'bash-completion'
+brew 'brew-cask-completion'
+brew 'htop'
+brew 'neofetch'
+brew 'curl'
+brew 'tmux'
+brew 'nmap'
+brew 'p7zip'
+#brew 'rclone'docker-compose'
+brew 'micro'
 
 
 
