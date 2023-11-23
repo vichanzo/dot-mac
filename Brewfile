@@ -48,11 +48,11 @@ cask 'visual-studio-code'
 cask 'adobe-acrobat-reader'	
 cask 'darktable'		
 cask 'macfuse'			
-cask 'smcfancontrol
+cask 'smcfancontrol'
 cask 'alacritty'
 cask 'meld'
 cask 'hammerspoon'
-cask 'vlc			
+cask 'vlc'			
 cask 'iterm2'
 cask 'xquartz'
 cask 'audacity'		
